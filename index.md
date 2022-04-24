@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Import Data](/https://colab.research.google.com/drive/14plVwkaArbDRah9Ra7uxgHYUBawMrdtn?authuser=1#scrollTo=ZKJae2uhxqdP)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
